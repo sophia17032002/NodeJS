@@ -2,13 +2,13 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/sophia17032002/Node#readme",
+  "homepage": "https://github.com/sophia17032002/NodeJS#readme",
   "bugs": {
-    "url": "https://github.com/sophia17032002/Node/issues"
+    "url": "https://github.com/sophia17032002/NodeJS/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sophia17032002/Node.git"
+    "url": "git+https://github.com/sophia17032002/NodeJS.git"
   },
   "license": "ISC",
   "author": "Sophiasree K",
