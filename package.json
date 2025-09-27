@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sophia17032002/Node#readme",
+  "bugs": {
+    "url": "https://github.com/sophia17032002/Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophia17032002/Node.git"
+  },
+  "license": "ISC",
+  "author": "Sophiasree K",
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
